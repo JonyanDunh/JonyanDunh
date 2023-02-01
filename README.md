@@ -1,3 +1,6 @@
+<h1 align="center">Hi 👋, I'm Jonyan Dunh</h1>
+<h3 align="center">A Full Stack developer from China.</h3>
+
 # 💫 About Me:
 👯 I’m looking to collaborate on a project of Smart NPC Of Traditional Game.<br>🌱 I’m currently learning the field of deep learning,such as GAN,DRL,NPL and CV...
 
