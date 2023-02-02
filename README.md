@@ -25,7 +25,6 @@
 <br/>  
 
 ## Rapidfire  
-<table ><tr><td valign="top" width="50%">
 
 - 🏫 Prepare to study at the [University of Technology Sydney](https://www.uts.edu.au/)  in the summer of 2024   
   
@@ -36,15 +35,6 @@
 - 🌱 I’m currently learning the field of deep learning,such as GAN,DRL,NPL and CV..  
   
 - ⚡ Fun fact: I spend most of my time copy-pasting    
-
-
-</td><td valign="top" width="50%">
-
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" /></div>  
-
-
-</td></tr></table>  
 
 <br/>  
 
