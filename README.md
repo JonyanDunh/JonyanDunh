@@ -38,10 +38,6 @@ I’m a full-stack developer from China.
 
 - 🌱 I’m currently learning the field of deep learning,such as GAN,DRL,NPL and CV..  
   
-
-- ❓ Ask me about anything related to DeginX stack and related technologies  
-  
-
 - ⚡ Fun fact: I spend most of my time copy-pasting    
 
 
