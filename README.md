@@ -25,16 +25,14 @@
 <br/>  
 
 ## Rapidfire  
-
-- 🏫 Prepare to study at the [University of Technology Sydney](https://www.uts.edu.au/)  in the summer of 2024   
-  
-
-- 👯 I’m looking to collaborate on a project of Smart NPC Of Traditional Game.  
-  
-
-- 🌱 I’m currently learning the field of deep learning,such as GAN,DRL,NPL and CV..  
-  
-- ⚡ Fun fact: I spend most of my time copy-pasting    
+- 🌏I'm a **full-stack** developer from China.
+- 🧒I'm 18 years old, but I have developed for about **ten** years🙂.
+- 🏫 Prepare to study at the **[University of Technology Sydney](https://www.uts.edu.au/)** in the summer of 2024.   
+- 💻I mainly use multiple developments language, such as `Python`, `Java`, `CPP`, `Golang`, `PHP`, `Javascript`, `C-Sharp`, etc.
+- 📝 Usually, what I am ready to develop decide in my mind, sometimes I prefer to develop a website, but most time my interested in Deep Learning, because I have a [**GeForce RTX 4090 Graphics Cards**](https://www.nvidia.com/en-sg/geforce/graphics-cards/40-series/rtx-4090/), and I don't wanna waste its incredibly powerful performance😂
+- 🌱 I’m currently learning deep learning, such as `GAN`, `DRL`, `NPL`, `CV`, etc. 
+- 👯 I’m looking to collaborate on a **Smart NPC Of Traditional Game** project.  
+- ⚡ Fun fact: I spend most of my time **copy-pasting**. 
 
 <br/>  
 
