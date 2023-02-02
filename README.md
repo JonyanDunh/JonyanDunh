@@ -1,4 +1,4 @@
-![Header](https://github.com/JonyanDunh/JonyanDunh/blob/main/header-image.png?raw=true)
+![Header](https://github.com/JonyanDunh/JonyanDunh/blob/main/header.png?raw=true)
 
 <p>
   <a href="https://discord.gg/JonyanDunh#1782">
