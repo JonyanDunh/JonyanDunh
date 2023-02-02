@@ -57,7 +57,7 @@ I’m a full-stack developer from China.
 
 <br/>  
 
-## 💻 My Skill Set:
+## 💻 My Skill Set
 <div align="center">
 <p>
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&amp;logo=c&amp;logoColor=white" alt="C" />
