@@ -1,4 +1,5 @@
-## Hey👋,I 'm Jonyan Dunh 
+![Header](https://github.com/JonyanDunh/JonyanDunh/blob/main/header-image.png?raw=true)
+
 <p>
   <a href="https://discord.gg/JonyanDunh#1782">
     <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&amp;logo=discord&amp;logoColor=white" alt="Discord"></a>
@@ -20,10 +21,6 @@
     <img src="https://img.shields.io/badge/kaggle-%2344BAE8.svg?&amp;style=for-the-badge&amp;logo=kaggle&amp;logoColor=white" alt="DEV.TO"></a></p>
 
 
-
-### Glad to see you here!  
-I’m a full-stack developer from China.  
-  
 
 <br/>  
 
