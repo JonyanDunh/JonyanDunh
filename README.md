@@ -1,5 +1,4 @@
 ## Hey👋,I 'm Jonyan Dunh 
-<div align="center">
 <p>
   <a href="https://discord.gg/JonyanDunh#1782">
     <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&amp;logo=discord&amp;logoColor=white" alt="Discord"></a>
@@ -19,7 +18,6 @@
     <img src="https://img.shields.io/badge/dev.to-%2308090A.svg?&amp;style=for-the-badge&amp;logo=dev.to&amp;logoColor=white" alt="DEV.TO"></a>
   <a href="https://www.kaggle.com/jonyandunh">
     <img src="https://img.shields.io/badge/kaggle-%2344BAE8.svg?&amp;style=for-the-badge&amp;logo=kaggle&amp;logoColor=white" alt="DEV.TO"></a></p>
-</div>
 
 
 
@@ -57,8 +55,7 @@ I’m a full-stack developer from China.
 
 <br/>  
 
-## 💻 My Skill Set
-<div align="center">
+## My Skill Set
 <p>
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&amp;logo=c&amp;logoColor=white" alt="C" />
   <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&amp;logo=c-sharp&amp;logoColor=white" alt="C#" />
@@ -134,7 +131,6 @@ I’m a full-stack developer from China.
   <img src="https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&amp;logo=django&amp;logoColor=white&amp;color=ff1709&amp;labelColor=gray" alt="DjangoREST" />
   <img src="https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&amp;logo=apache&amp;logoColor=white" alt="Apache" />
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&amp;logo=oracle&amp;logoColor=white" alt="Oracle" /></p>
-  </div>
 
 ## Github Stats
 
@@ -150,12 +146,10 @@ I’m a full-stack developer from China.
 </div>
 <br/>  
 
-  ## 💰 You can help me by Donating
-<div align="center">
+  ## You can help me by Donating
 <a href="https://buymeacoffee.com/jonyandunh" target="_blank">
 <img src=https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black alt=BuyMeACoffee style="margin-bottom: 5px;" /></a>
 <a href="[https://instagram.com/iamrishavanand](https://ko-fi.com/jonyandunh)" target="_blank">
 <img src=https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white alt=Ko-Fi style="margin-bottom: 5px;" /></a>  
-</div>  
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
