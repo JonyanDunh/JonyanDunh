@@ -20,10 +20,6 @@
   <a href="https://www.kaggle.com/jonyandunh">
     <img src="https://img.shields.io/badge/kaggle-%2344BAE8.svg?&amp;style=for-the-badge&amp;logo=kaggle&amp;logoColor=white" alt="DEV.TO"></a></p>
 
-
-
-<br/>  
-
 ## Rapidfire  
 - 🌏 I'm a **full-stack developer** from China, and at the same time, I'm an **undergraduate college student** too. So, most time is used studying😭.
 - 🧒 I'm 18, but I have developed software for about **ten** years.
@@ -34,8 +30,7 @@
 - 👯 I’m looking to collaborate on a **Smart NPC Of Traditional Game** project.  
 - ⚡ Fun fact: I spend most of my time **copy-pasting**.    
 - 💌 My email is JonyanDunh@outlook.com. Glad to see your contact😊.
-
-<br/>  
+ 
 
 ## My Skill Set
 <p>
@@ -126,7 +121,6 @@
 </tr>
 </table>  
 </div>
-<br/>  
 
   ## You can help me by Donating
 <p>  
