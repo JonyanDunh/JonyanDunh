@@ -127,7 +127,7 @@
 <a href="https://buymeacoffee.com/jonyandunh" target="_blank">
 <img src=https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black alt=BuyMeACoffee style="margin-bottom: 5px;" />
 </a>
-  <a href="[https://instagram.com/iamrishavanand](https://ko-fi.com/jonyandunh)" target="_blank">
+  <a href="https://ko-fi.com/jonyandunh" target="_blank">
 <img src=https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white alt=Ko-Fi style="margin-bottom: 5px;" />
 </a> 
  </p>
