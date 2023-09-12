@@ -1,24 +1,6 @@
 ![Header](https://github.com/JonyanDunh/JonyanDunh/blob/main/github-header-image.png?raw=true)
 
 <p>
-  <a href="https://discord.gg/JonyanDunh#1782">
-    <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&amp;logo=discord&amp;logoColor=white" alt="Discord"></a>
-  <a href="https://facebook.com/jonyandunh">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&amp;logo=Facebook&amp;logoColor=white" alt="Facebook"></a>
-  <a href="https://reddit.com/user/JonyanDunh">
-    <img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&amp;logo=Reddit&amp;logoColor=white" alt="Reddit"></a>
-  <a href="https://stackoverflow.com/users/19812300">
-    <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&amp;logo=stack-overflow&amp;logoColor=white" alt="Stack Overflow"></a>
-  <a href="https://twitch.tv/jonyandunh">
-    <img src="https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&amp;logo=Twitch&amp;logoColor=white" alt="Twitch"></a>
-  <a href="https://twitter.com/jonyandunh">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&amp;logo=Twitter&amp;logoColor=white" alt="Twitter"></a>
-  <a href="https://youtube.com/@jonyandunh">
-    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&amp;logo=YouTube&amp;logoColor=white" alt="YouTube"></a>
-  <a href="https://dev.to/jonyandunh">
-    <img src="https://img.shields.io/badge/dev.to-%2308090A.svg?&amp;style=for-the-badge&amp;logo=dev.to&amp;logoColor=white" alt="DEV.TO"></a>
-  <a href="https://www.kaggle.com/jonyandunh">
-    <img src="https://img.shields.io/badge/kaggle-%2344BAE8.svg?&amp;style=for-the-badge&amp;logo=kaggle&amp;logoColor=white" alt="DEV.TO"></a></p>
 
 ## Rapidfire  
 - 🌏 I'm a **full-stack developer** from China, and at the same time, I'm an **undergraduate college student** too. So, most time is used studying😭.
